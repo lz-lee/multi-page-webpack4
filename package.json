@@ -1,0 +1,21 @@
+{
+  "name": "multi-page-webpack4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lz-lee/multi-page-webpack4.git",
+  "author": "李良知 <296452017@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "add-asset-html-webpack-plugin": "^2.1.3",
+    "eslint-loader": "^2.0.0",
+    "glob": "^7.1.2",
+    "happypack": "^5.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.8.3",
+    "webpack-dev-server": "^3.1.4",
+    "webpack-merge": "^4.1.2"
+  },
+  "dependencies": {
+    "vue": "^2.5.16"
+  }
+}
